@@ -16,6 +16,7 @@
     "react-lazy-load-image-component": "^1.6.3",
     "react-router-dom": "^7.1.1",
     "react-scripts": "5.0.1",
+    "react-text-input": "^0.0.8",
     "styled-components": "^6.1.14"
   },
   "scripts": {
